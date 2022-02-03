@@ -9,13 +9,13 @@
   </a>
 
 <h3 align="center">Meme Generator</h3>
-<!-- 
-<!--   <p align="center">
+
+ <p align="center">
     Built with love, React js, Img flip
     <br />
     <a href="https://meme-generator-1qsf1xffq-aslmanasa.vercel.app/">https://meme-generator-1qsf1xffq-aslmanasa.vercel.app/</a>
 
-</div> --> -->
+</div> 
 
 ## About The Project
 It's a free online image maker that lets you add custom resizable text, images, and much more to templates. People often use the generator to customize established memes.
